@@ -22,7 +22,7 @@ if args.url:
 else:
     parser.print_help()
     exit()
-print(url,cwd)
+print("[+]Enjoy your shell!")
 
 while(cmd != "exit"):
     print(Style.BRIGHT + Fore.GREEN + "wefir",end="")
