@@ -5,5 +5,7 @@ Inspired by <a href="https://github.com/flozz/p0wny-shell">P0wny-shell</a> and <
 ## Usage
 #### 1.Upload webshell.php to the server
 #### 2.Connect to the webshell with the command:
-```python3 client.py -u [https://vulnerable.com/uploads/webshell.php]```
+```
+python3 client.py -u [https://vulnerable.com/uploads/webshell.php]
+```
 
