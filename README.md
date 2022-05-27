@@ -10,4 +10,5 @@ Inspired by <a href="https://github.com/flozz/p0wny-shell">P0wny-shell</a> and <
 ```
 python3 client.py -u [https://vulnerable.com/uploads/webshell.php]
 ```
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/60816759/170684347-296cfca3-caa3-448c-8b98-39fc45486d03.png">
 
